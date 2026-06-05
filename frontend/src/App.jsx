@@ -353,7 +353,7 @@ function App() {
             </label>
             <input
               type="text"
-              placeholder="Jane Doe"
+              placeholder="Animated Person"
               value={studentName}
               onChange={(e) => setStudentName(e.target.value)}
               className="input mb-4"

@@ -1,4 +1,4 @@
-# Scholar — Decentralized Scholarship Funding
+# Scholar (Decentralized Scholarship Funding)
 
 A monorepo with a Solidity smart contract backend (Truffle) and a React/Vite frontend connected via Web3.js and MetaMask.
 
