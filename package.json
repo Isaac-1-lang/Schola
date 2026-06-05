@@ -1,0 +1,16 @@
+{
+  "name": "scholar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Decentralized Scholarship Funding — Truffle smart contracts + React frontend",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "migrate:reset": "truffle migrate --reset",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "build:frontend": "npm run build --prefix frontend"
+  },
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  }
+}
